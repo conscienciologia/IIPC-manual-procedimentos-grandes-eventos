@@ -4,25 +4,20 @@
 
 # Manual
 
-## 1 - GRANDES EVENTOS
+## GRANDES EVENTOS
 
-\- Qualificação Docente
+- Qualificação Docente
+- Encontro de Voluntários
+- Semana Docente
+- Congressos
+- Curso Projeciologia & Reurbex
+- Celebrações instItucionais
 
-\- Encontro de Voluntários
+## NÚCLEOS E EQUIPES
 
-\- Semana Docente
+- Transmissão e Tecnologia da Informação
 
-\- Congressos
-
-\- Curso Projeciologia & Reurbex
-
-\- Celebrações instItucionais
-
-## 2 -- NÚCLEOS E EQUIPES
-
-\- Transmissão e Tecnologia da Informação
-
-## 3 -- OBJETIVO
+## OBJETIVO
 
 Organizar os diversos processos e fluxos de trabalho dos diferentes Núcleos existentes para a otimização de cada um dos eventos nas modalidades hibrida, [presencial]{.mark} ou à distância (online, síncrono).
 
@@ -72,25 +67,15 @@ Os equipamentos necessários para a transmissão vai variar segundo a modalidade
 Os equipamentos para uma transmissão presencial são:
 
 -   Equipamentos para captar imagem e som.
-
 -   Um computador com conexão a internet e uma placa de captura.
-
 -   Microfone profissional.
-
 -   Microfone de lapela.
-
 -   Switcher (mesa de corte) + controlador.
-
 -   Mesa de som digital (sonorização).
-
 -   iluminação profissional.
-
 -   Televisão.
-
 -   Celular.
-
 -   Suporte para celular.
-
 -   Suporte para câmera.
 
 ## **Manual de procedimentos da transmissão **
@@ -295,44 +280,42 @@ Computador com telas conectadas para: retroprojetor para apresentações gerais;
 
 -   Projetor: dependendo do evento tem que ser alugado 
 
-## [Como fazer uma transmissão ao vivo (presencial)]{.mark}
+## Como fazer uma transmissão ao vivo (presencial)
 
-[Estabeleça um objetivo.]{.mark}
+Estabeleça um objetivo.
 
-[Planeje o conteúdo.]{.mark}
+Planeje o conteúdo.
 
-[Escolha os equipamentos.]{.mark}
+Escolha os equipamentos.
 
-[Monte o cenário.]{.mark}
+Monte o cenário.
 
-[Cuide da iluminação.]{.mark}
+Cuide da iluminação.
 
-[Use equipamentos de captação de áudio.]{.mark}
+Use equipamentos de captação de áudio.
 
-[Tenha uma boa conexão de internet.]{.mark}
+Tenha uma boa conexão de internet.
 
-[Faça testes antes de iniciar a transmissão.]{.mark}
+Faça testes antes de iniciar a transmissão.
 
-[Quadro com quantidade, especificação, próprio ou para aluguel]{.mark}
+Quadro com quantidade, especificação, próprio ou para aluguel
 
-[Como proceder em caso de contratação de empresa para aluguel de equipamento.]{.mark}
+Como proceder em caso de contratação de empresa para aluguel de equipamento.
 
-[Transmissão presencial em espaço próprio do IIPC e em local alugado (como hotel).]{.mark}
+Transmissão presencial em espaço próprio do IIPC e em local alugado (como hotel).
 
-[Desafios e soluções]{.mark}
+Desafios e soluções
 
-[Dicas de otimizações]{.mark}
+Dicas de otimizações
 
-[Prazo para cada etapa]{.mark}
+Prazo para cada etapa
 
-[Responsabilidades -- equipes]{.mark}
+Responsabilidades -- equipes
 
-[Iniciativas de segurança: redundância;]{.mark}
+Iniciativas de segurança: redundância;
 
-[Situações exemplificadoras a partir das experiências vivenciadas]{.mark}
+Situações exemplificadoras a partir das experiências vivenciadas
 
-**\
-**
 
 ## Cronograma para elaboração do Manual de Procedimentos
 
