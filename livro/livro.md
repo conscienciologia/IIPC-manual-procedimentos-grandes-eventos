@@ -1,6 +1,6 @@
 **IIPC**
 
-**Manual de procedimentos para realização de grandes eventos do IIPC**
+**Manual de procedimentos para realização de Grandes Eventos do IIPC**
 
 # Manual
 
